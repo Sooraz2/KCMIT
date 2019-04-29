@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127ddc81-3ab7-4fa0-a661-a84088156d2c" name="Default" comment="" />
+    <ignored path="UMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="UMS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Russian.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Language/Russian/Russian.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="395" column="0" selection-start-line="395" selection-start-column="0" selection-end-line="395" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/Views/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+              <folding>
+                <marker date="1452068258000" expanded="true" signature="5402:5414" placeholder="..." />
+                <marker date="1452068258000" expanded="true" signature="5562:5648" placeholder="..." />
+                <marker date="1452068258000" expanded="true" signature="10041:10066" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActiveTeasersRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="64" column="133" selection-start-line="64" selection-start-column="133" selection-end-line="64" selection-end-column="133" />
+              <folding>
+                <marker date="1458249344109" expanded="true" signature="538:717" placeholder="SELECT DISTI..messages_message..." />
+                <marker date="1458249344109" expanded="true" signature="2501:5139" placeholder="SELECT messa..." />
+                <marker date="1458249344109" expanded="true" signature="5681:5821" placeholder="SELECT Count..." />
+                <marker date="1458249344109" expanded="true" signature="7129:7184" placeholder="SELECT Count..messages_periods..." />
+                <marker date="1458249344109" expanded="true" signature="10553:10886" placeholder="SELECT CONCA..." />
+                <marker date="1458249344109" expanded="true" signature="10941:11211" placeholder="SELECT t.*,'..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeaserManagementRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="394" column="125" selection-start-line="394" selection-start-column="125" selection-end-line="394" selection-end-column="125" />
+              <folding>
+                <marker date="1458249485033" expanded="true" signature="689:1063" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="875:1063" placeholder="SELECT text,..messages_message..." />
+                <marker date="1458249485033" expanded="true" signature="1541:1715" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="1618:1715" placeholder="SELECT ${$me..messages_criterion..." />
+                <marker date="1458249485033" expanded="true" signature="1858:1974" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="1906:1959" placeholder="SELECT ${$me..criterion_roaming..." />
+                <marker date="1458249485033" expanded="true" signature="2647:2693" placeholder="DELETE FROM ..." />
+                <marker date="1458249485033" expanded="true" signature="2979:3027" placeholder="DELETE FROM ..." />
+                <marker date="1458249485033" expanded="true" signature="5330:5570" placeholder="SELECT *,CHA..." />
+                <marker date="1458249485033" expanded="true" signature="6270:6306" placeholder="SELECT Count..." />
+                <marker date="1458249485033" expanded="true" signature="6624:6679" placeholder="SELECT * FRO..." />
+                <marker date="1458249485033" expanded="true" signature="7808:8078" placeholder="SELECT t.*,'..." />
+                <marker date="1458249485033" expanded="true" signature="9760:12399" placeholder="SELECT messa..." />
+                <marker date="1458249485033" expanded="true" signature="12904:13044" placeholder="SELECT Count..." />
+                <marker date="1458249485033" expanded="true" signature="13357:13403" placeholder="SELECT is_ac..." />
+                <marker date="1458249485033" expanded="true" signature="13622:13677" placeholder="SELECT Count..messages_periods..." />
+                <marker date="1458249485033" expanded="true" signature="21371:21533" placeholder="SELECT *, ${..messages_message..." />
+                <marker date="1458249485033" expanded="true" signature="21731:21767" placeholder="SELECT Count..." />
+                <marker date="1458249485033" expanded="true" signature="22101:22170" placeholder="UPDATE messa..." />
+                <marker date="1458249485033" expanded="true" signature="22502:22845" placeholder="SELECT COUNT..." />
+                <marker date="1458249485033" expanded="true" signature="23014:23101" placeholder="SELECT COUNT..." />
+                <marker date="1458249485033" expanded="true" signature="23286:23390" placeholder="SELECT COUNT..." />
+                <marker date="1458249485033" expanded="true" signature="23752:23855" placeholder="SELECT COUNT..." />
+                <marker date="1458249485033" expanded="true" signature="23878:23981" placeholder="SELECT COUNT..." />
+                <marker date="1458249485033" expanded="true" signature="25565:25920" placeholder="SELECT messa..." />
+                <marker date="1458249485033" expanded="true" signature="27106:27268" placeholder="SELECT Count..." />
+                <marker date="1458249485033" expanded="true" signature="27634:27693" placeholder="SELECT * FRO..." />
+                <marker date="1458249485033" expanded="true" signature="28259:28774" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="28507:28774" placeholder="SELECT '${$n..messages_message..." />
+                <marker date="1458249485033" expanded="true" signature="28982:29041" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="29042:29070" placeholder="SELECT ${$me..." />
+                <marker date="1458249485033" expanded="true" signature="29296:29488" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="29373:29488" placeholder="SELECT ${$me..messages_criterion..." />
+                <marker date="1458249485033" expanded="true" signature="29631:29747" placeholder="INSERT INTO ..." />
+                <marker date="1458249485033" expanded="true" signature="29679:29732" placeholder="SELECT ${$me..criterion_roaming..." />
+                <marker date="1458249485033" expanded="true" signature="30676:30855" placeholder="SELECT DISTI..messages_message..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastingCalendarController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastingCalendarRepository.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="313" column="0" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
+              <folding>
+                <marker date="1458250103033" expanded="true" signature="600:928" placeholder="SELECT `Date..." />
+                <marker date="1458250103033" expanded="true" signature="5022:5264" placeholder="SELECT CASE ..." />
+                <marker date="1458250103033" expanded="true" signature="9743:12730" placeholder="SELECT COUNT..." />
+                <marker date="1458250103033" expanded="true" signature="13030:13209" placeholder="SELECT DISTI..messages_message..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/Views/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="99" selection-start-line="37" selection-start-column="73" selection-end-line="37" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Infrastructure/DefaultLanguages.php" />
+        <option value="$PROJECT_DIR$/Infrastructure/TeaserCharacters.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/MsisdnPrefix/Views/MsisdnPrefixForm.php" />
+        <option value="$PROJECT_DIR$/Application/Shared/Controllers/LoginController.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/ReportBug/ReportBugController.php" />
+        <option value="$PROJECT_DIR$/Language/English/English.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/PostContent.php" />
+        <option value="$PROJECT_DIR$/includes/scripts/Shared.js" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/TimeCriteria.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/Columns.php" />
+        <option value="$PROJECT_DIR$/includes/scripts/jquery.validationEngine-en.js" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/Form.php" />
+        <option value="$PROJECT_DIR$/Application/Config/DbConfig.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/ArchiveTeaser/Views/Index.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/Views/Index.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/Views/Form.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/SubscriberBalance/Views/Form.php" />
+        <option value="$PROJECT_DIR$/Infrastructure/InterfaceVariables.php" />
+        <option value="$PROJECT_DIR$/Language/Russian/Message.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/MessageTemplatesController.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/MessageTemplatesRepository.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/Views/Form.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/DetailedStatistics/Views/Index.php" />
+        <option value="$PROJECT_DIR$/AddMonitoringData.php" />
+        <option value="$PROJECT_DIR$/Language/Russian/Russian.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/ReportBug/Views/Form.php" />
+        <option value="$PROJECT_DIR$/Application/Shared/Views/base.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp19945/var/www/BalancePlusUMS/Application/Config/DbConfig.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp21890/var/www/BalancePlusUMS/AddMonitoringData.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/TariffPlanController.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/TariffPlanRepository.php" />
+        <option value="$PROJECT_DIR$/System/Repositories/Repo.php" />
+        <option value="$PROJECT_DIR$/Application/Repositories/TeaserTableRepository.php" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/Application/WebInterfacef/Modules/ArchiveTeaser/ArchiveTeaserRepository.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterfacef/Modules/ActiveTeasers/ActiveTeasersRepository.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp38902/var/www/BalancePlusUMS/Application/WebInterface/Modules/ArchiveTeaser/ArchiveTeaserRepository.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementController.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp30008/var/www/BalancePlusUMS/Application/WebInterface/Modules/TeaserManagement/Views/TeaserEdit.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp31464/var/www/BalancePlusUMS/Application/WebInterface/Modules/TeaserManagement/TeaserManagementController.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/TeaserEdit.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp13543/var/www/BalancePlusUMS/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersRepository.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersRepository.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementRepository.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp03018/var/www/BalancePlusUMS/Application/WebInterface/Modules/TeaserManagement/TeaserManagementRepository.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp47383/var/www/BalancePlusUMS/Application/Repositories/TeaserTableRepository.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp07043/var/www/BalancePlusUMS/Language/English/English.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp08913/var/www/BalancePlusUMS/Language/Russian/Russian.php" />
+        <option value="$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarRepository.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp13679/var/www/BalancePlusUMS/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarRepository.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BroadcastingCalendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BroadcastingCalendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../compass" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Boot&#9;FILE&#9;file://D:/xampp/htdocs/UMS/System/Core/Bootstrap.php&#10;base&#9;FILE&#9;file://D:/xampp/htdocs/UMS/Application/Shared/Views/base.php&#10;Engl&#9;FILE&#9;file://D:/xampp/htdocs/UMS/Language/English/English.php&#10;Russ&#9;FILE&#9;file://D:/xampp/htdocs/UMS/Language/Russian/Russian.php&#10;vali&#9;FILE&#9;file://D:/xampp/htdocs/UMS/includes/scripts/jquery.validationEngine-en.js&#10;db&#9;null&#9;null&#10;valida&#9;FILE&#9;file://D:/wamp/www/UMS/includes/scripts/jquery.validationEngine-en.js&#10;Russian.php&#9;FILE&#9;file://D:/wamp/www/UMS/Language/Russian/Russian.php&#10;footer&#9;FILE&#9;file://D:/wamp/www/UMS/Application/Shared/Views/footer.php&#10;base.&#9;FILE&#9;file://D:/wamp/www/UMS/Application/Shared/Views/base.php&#10;Login&#9;null&#9;null&#10;con&#9;FILE&#9;file://D:/wamp/www/UMS/config.ini&#10;validation&#9;FILE&#9;file://D:/wamp/www/UMS/includes/scripts/jquery.validationEngine-en.js&#10;Ru&#9;null&#9;null" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\UMS\includes\teaser" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127ddc81-3ab7-4fa0-a661-a84088156d2c" name="Default" comment="" />
+      <created>1457696785545</created>
+      <option name="number" value="Default" />
+      <updated>1457696785545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26866764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BlackListGeneral/BlackListGeneralConfirmation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47790506">
+          <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/MVC/ModelAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19639935">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/MessageTemplatesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.117647">
+          <caret line="120" column="62" selection-start-line="120" selection-start-column="62" selection-end-line="120" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/MessageTemplatesRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.576923">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/MessageTemplates/Views/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3137255">
+          <caret line="66" column="146" selection-start-line="66" selection-start-column="146" selection-end-line="66" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/scripts/jquery.validationEngine-en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="293" column="83" selection-start-line="293" selection-start-column="77" selection-end-line="293" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/DetailedStatistics/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6862745">
+          <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddMonitoringData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Views/UserManagement/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.538462">
+          <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/English/English.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8653846">
+          <caret line="971" column="18" selection-start-line="971" selection-start-column="11" selection-end-line="971" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Shared/Views/base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="507" column="49" selection-start-line="507" selection-start-column="49" selection-end-line="507" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/Core/Bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ReportBug/Views/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/AllocationCriteria/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="85" selection-start-line="80" selection-start-column="85" selection-end-line="80" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="60" selection-start-line="156" selection-start-column="56" selection-end-line="156" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/TariffPlanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/Language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.153846">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Models/Teaser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4729951">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/English/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3461537">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementLog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="36.923077">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3740458">
+          <caret line="120" column="62" selection-start-line="120" selection-start-column="58" selection-end-line="120" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infrastructure/MessageCriterionType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51653945">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementConfirmation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1923077">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Repositories/TeaserActivationLogTableRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58428806">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TariffPlan/TariffPlanRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58919805">
+          <caret line="154" column="104" selection-start-line="154" selection-start-column="104" selection-end-line="154" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp38902/var/www/BalancePlusUMS/Application/WebInterface/Modules/ArchiveTeaser/ArchiveTeaserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.931624">
+          <caret line="117" column="99" selection-start-line="117" selection-start-column="96" selection-end-line="117" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterfacef/Modules/ActiveTeasers/ActiveTeasersRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.507365">
+          <caret line="100" column="11" selection-start-line="100" selection-start-column="11" selection-end-line="100" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ArchiveTeaser/ArchiveTeaserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50427353">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ArchiveTeaser/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32733223">
+          <caret line="88" column="63" selection-start-line="88" selection-start-column="59" selection-end-line="88" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterfacef/Modules/ArchiveTeaser/ArchiveTeaserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49590835">
+          <caret line="72" column="250" selection-start-line="72" selection-start-column="250" selection-end-line="72" selection-end-column="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64102566">
+          <caret line="103" column="89" selection-start-line="103" selection-start-column="89" selection-end-line="103" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7777778">
+          <caret line="721" column="90" selection-start-line="721" selection-start-column="7" selection-end-line="721" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp31464/var/www/BalancePlusUMS/Application/WebInterface/Modules/TeaserManagement/TeaserManagementController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49099836">
+          <caret line="717" column="0" selection-start-line="717" selection-start-column="0" selection-end-line="717" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/Views/TeaserEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.008547009">
+          <caret line="356" column="93" selection-start-line="356" selection-start-column="93" selection-end-line="356" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+          <folding>
+            <marker date="1452068258000" expanded="true" signature="5402:5414" placeholder="..." />
+            <marker date="1452068258000" expanded="true" signature="5562:5648" placeholder="..." />
+            <marker date="1452068258000" expanded="true" signature="10041:10066" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language/Russian/Russian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="395" column="0" selection-start-line="395" selection-start-column="0" selection-end-line="395" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="133" selection-start-line="64" selection-start-column="133" selection-end-line="64" selection-end-column="133" />
+          <folding>
+            <marker date="1458249344109" expanded="true" signature="538:717" placeholder="SELECT DISTI..messages_message..." />
+            <marker date="1458249344109" expanded="true" signature="2501:5139" placeholder="SELECT messa..." />
+            <marker date="1458249344109" expanded="true" signature="5681:5821" placeholder="SELECT Count..." />
+            <marker date="1458249344109" expanded="true" signature="7129:7184" placeholder="SELECT Count..messages_periods..." />
+            <marker date="1458249344109" expanded="true" signature="10553:10886" placeholder="SELECT CONCA..." />
+            <marker date="1458249344109" expanded="true" signature="10941:11211" placeholder="SELECT t.*,'..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp13543/var/www/BalancePlusUMS/Application/WebInterface/Modules/ActiveTeasers/ActiveTeasersRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6873977">
+          <caret line="276" column="125" selection-start-line="276" selection-start-column="125" selection-end-line="276" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp03018/var/www/BalancePlusUMS/Application/WebInterface/Modules/TeaserManagement/TeaserManagementRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.474631">
+          <caret line="394" column="246" selection-start-line="394" selection-start-column="246" selection-end-line="394" selection-end-column="246" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07043/var/www/BalancePlusUMS/Language/English/English.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61433446">
+          <caret line="407" column="3" selection-start-line="407" selection-start-column="3" selection-end-line="407" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp08913/var/www/BalancePlusUMS/Language/Russian/Russian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037643">
+          <caret line="402" column="46" selection-start-line="402" selection-start-column="46" selection-end-line="402" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47383/var/www/BalancePlusUMS/Application/Repositories/TeaserTableRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.9934533">
+          <caret line="499" column="125" selection-start-line="499" selection-start-column="125" selection-end-line="499" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Repositories/TeaserTableRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.068739">
+          <caret line="491" column="120" selection-start-line="491" selection-start-column="120" selection-end-line="491" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/TeaserManagement/TeaserManagementRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="394" column="125" selection-start-line="394" selection-start-column="125" selection-end-line="394" selection-end-column="125" />
+          <folding>
+            <marker date="1458249485033" expanded="true" signature="689:1063" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="875:1063" placeholder="SELECT text,..messages_message..." />
+            <marker date="1458249485033" expanded="true" signature="1541:1715" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="1618:1715" placeholder="SELECT ${$me..messages_criterion..." />
+            <marker date="1458249485033" expanded="true" signature="1858:1974" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="1906:1959" placeholder="SELECT ${$me..criterion_roaming..." />
+            <marker date="1458249485033" expanded="true" signature="2647:2693" placeholder="DELETE FROM ..." />
+            <marker date="1458249485033" expanded="true" signature="2979:3027" placeholder="DELETE FROM ..." />
+            <marker date="1458249485033" expanded="true" signature="5330:5570" placeholder="SELECT *,CHA..." />
+            <marker date="1458249485033" expanded="true" signature="6270:6306" placeholder="SELECT Count..." />
+            <marker date="1458249485033" expanded="true" signature="6624:6679" placeholder="SELECT * FRO..." />
+            <marker date="1458249485033" expanded="true" signature="7808:8078" placeholder="SELECT t.*,'..." />
+            <marker date="1458249485033" expanded="true" signature="9760:12399" placeholder="SELECT messa..." />
+            <marker date="1458249485033" expanded="true" signature="12904:13044" placeholder="SELECT Count..." />
+            <marker date="1458249485033" expanded="true" signature="13357:13403" placeholder="SELECT is_ac..." />
+            <marker date="1458249485033" expanded="true" signature="13622:13677" placeholder="SELECT Count..messages_periods..." />
+            <marker date="1458249485033" expanded="true" signature="21371:21533" placeholder="SELECT *, ${..messages_message..." />
+            <marker date="1458249485033" expanded="true" signature="21731:21767" placeholder="SELECT Count..." />
+            <marker date="1458249485033" expanded="true" signature="22101:22170" placeholder="UPDATE messa..." />
+            <marker date="1458249485033" expanded="true" signature="22502:22845" placeholder="SELECT COUNT..." />
+            <marker date="1458249485033" expanded="true" signature="23014:23101" placeholder="SELECT COUNT..." />
+            <marker date="1458249485033" expanded="true" signature="23286:23390" placeholder="SELECT COUNT..." />
+            <marker date="1458249485033" expanded="true" signature="23752:23855" placeholder="SELECT COUNT..." />
+            <marker date="1458249485033" expanded="true" signature="23878:23981" placeholder="SELECT COUNT..." />
+            <marker date="1458249485033" expanded="true" signature="25565:25920" placeholder="SELECT messa..." />
+            <marker date="1458249485033" expanded="true" signature="27106:27268" placeholder="SELECT Count..." />
+            <marker date="1458249485033" expanded="true" signature="27634:27693" placeholder="SELECT * FRO..." />
+            <marker date="1458249485033" expanded="true" signature="28259:28774" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="28507:28774" placeholder="SELECT '${$n..messages_message..." />
+            <marker date="1458249485033" expanded="true" signature="28982:29041" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="29042:29070" placeholder="SELECT ${$me..." />
+            <marker date="1458249485033" expanded="true" signature="29296:29488" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="29373:29488" placeholder="SELECT ${$me..messages_criterion..." />
+            <marker date="1458249485033" expanded="true" signature="29631:29747" placeholder="INSERT INTO ..." />
+            <marker date="1458249485033" expanded="true" signature="29679:29732" placeholder="SELECT ${$me..criterion_roaming..." />
+            <marker date="1458249485033" expanded="true" signature="30676:30855" placeholder="SELECT DISTI..messages_message..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/Views/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="99" selection-start-line="37" selection-start-column="73" selection-end-line="37" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/System/Repositories/Repo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34697217">
+          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarParameter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61702126">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/WebInterface/Modules/BroadcastingCalendar/BroadcastingCalendarRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="313" column="0" selection-start-line="313" selection-start-column="0" selection-end-line="313" selection-end-column="0" />
+          <folding>
+            <marker date="1458250103033" expanded="true" signature="600:928" placeholder="SELECT `Date..." />
+            <marker date="1458250103033" expanded="true" signature="5022:5264" placeholder="SELECT CASE ..." />
+            <marker date="1458250103033" expanded="true" signature="9743:12730" placeholder="SELECT COUNT..." />
+            <marker date="1458250103033" expanded="true" signature="13030:13209" placeholder="SELECT DISTI..messages_message..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
